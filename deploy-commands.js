@@ -13,7 +13,7 @@ require("dotenv").config();
 const { REST, Routes, SlashCommandBuilder } = require("discord.js");
 const config = require("./config");
 
-const { MTUzNzY3NDM3MjQ0NDMyNzkzNg.GkfOcl.AWFyzn_kzKHNsAHzQdu7W18oJYVenUEnpZLgOU, 1537674372444327936 } = process.env;
+const { DISCORD_TOKEN, CLIENT_ID } = process.env;
 
 if (!DISCORD_TOKEN || !CLIENT_ID) {
   console.error("Missing DISCORD_TOKEN or CLIENT_ID in .env — see .env.example");
