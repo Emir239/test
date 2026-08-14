@@ -9,7 +9,7 @@ module.exports = {
   // --- IDs (fill these in) ---
   GUILD_ID: "1536852592746037258",          // the server this bot operates in
   TICKET_CATEGORY_ID: "1537680897778778132",   // category new ticket channels are created under
-  STAFF_ROLE_ID: "1537692236614082633",      // role that can see + gets pinged on new tickets
+  STAFF_ROLE_ID: "1537681373685489704",      // role that can see + gets pinged on new tickets
 
   // --- Dropdown options for the "service" field in /order ---
   // label = shown to the user, value = short internal id (must be unique, max 100 chars)
