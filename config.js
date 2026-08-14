@@ -7,7 +7,7 @@
 
 module.exports = {
   // --- IDs (fill these in) ---
-  GUILD_ID: "1536852592746037258",          // the server this bot operates in
+  GUILD_ID: "1537680897778778132",          // the server this bot operates in
   TICKET_CATEGORY_ID: "1537680897778778132",   // category new ticket channels are created under
   STAFF_ROLE_ID: "1537694851141730414",      // role that can see + gets pinged on new tickets
 
